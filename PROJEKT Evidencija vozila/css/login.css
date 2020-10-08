@@ -1,0 +1,32 @@
+.loginbox
+{
+	margin: auto;
+	width: 23%;
+	padding: 20px;
+	margin-top: 13%;
+}
+#loginButton
+{
+	position: center;
+	margin-right:32%;
+}
+h1
+{
+	margin-left: 35%;
+	color: white;
+}
+input 
+{
+	display: block;
+	position: center;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 3px;
+}
+body
+{
+	background: url('../img/bg_login.jpg');
+	/*background-repeat: no-repeat;*/
+	background-size: 100%;
+}
+
